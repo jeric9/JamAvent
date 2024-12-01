@@ -3097,3 +3097,733 @@ An asset already exists at the import location: /Game/Assets/Rocks/rock09
 [2024.12.01-11.12.29:308][120]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2024.12.01-11.12.29:308][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.12.01-11.12.34:646][152]LogViewport: Scene viewport resized to 2369x1594, mode Windowed.
+[2024.12.01-11.13.56:094][162]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\OriGaming_Studio\Projets\JamAvent_2024\Sapin\Assets\DemiCylindre.fbx)
+[2024.12.01-11.13.56:101][162]LogFbx: Loading FBX Scene from D:\OriGaming_Studio\Projets\JamAvent_2024\Sapin\Assets\DemiCylindre.fbx
+[2024.12.01-11.13.56:103][162]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.01-11.14.10:569][162]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.01-11.14.10:670][162]LogFbx: Display: Triangulating static mesh Cylinder
+[2024.12.01-11.14.10:671][162]LogStaticMesh: Display: Building static mesh DemiCylindre...
+[2024.12.01-11.14.10:673][162]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.14.10:706][162]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.01-11.14.11:108][162]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\OriGaming_Studio\Projets\JamAvent_2024\Sapin\Assets\DemiRectangle.fbx)
+[2024.12.01-11.14.11:112][162]LogFbx: Loading FBX Scene from D:\OriGaming_Studio\Projets\JamAvent_2024\Sapin\Assets\DemiRectangle.fbx
+[2024.12.01-11.14.11:116][162]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.01-11.14.11:181][162]LogFbx: Display: Triangulating static mesh Plane
+[2024.12.01-11.14.11:196][162]LogStaticMesh: Display: Building static mesh DemiRectangle...
+[2024.12.01-11.14.11:200][162]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Lands/DemiRectangle.DemiRectangle
+[2024.12.01-11.14.11:220][162]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.01-11.14.14:491][422]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-11.14.14:497][422]LogSlate: Window 'Message Log' being destroyed
+[2024.12.01-11.14.15:053][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.12.01-11.14.15:095][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_01' took 0.089
+[2024.12.01-11.14.15:096][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Lands/DemiCylindre] ([1] browsable assets)...
+[2024.12.01-11.14.15:134][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre]
+[2024.12.01-11.14.15:134][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Lands/DemiCylindre]
+[2024.12.01-11.14.15:137][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Lands/DemiCylindre_Auto3
+[2024.12.01-11.14.15:137][459]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/DemiCylindre_Auto36D43766A408F266D801610A0F65B8A4D.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/Assets/Lands/DemiCylindre_Auto3.uasset'
+[2024.12.01-11.14.15:138][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Lands/DemiRectangle] ([1] browsable assets)...
+[2024.12.01-11.14.15:145][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Lands/DemiRectangle.DemiRectangle]
+[2024.12.01-11.14.15:145][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Lands/DemiRectangle]
+[2024.12.01-11.14.15:148][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Lands/DemiRectangle_Auto3
+[2024.12.01-11.14.15:148][459]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/DemiRectangle_Auto317F8F2524BF382F46FD002A9A523D7C5.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/Assets/Lands/DemiRectangle_Auto3.uasset'
+[2024.12.01-11.14.15:149][459]LogFileHelpers: Auto-saving content packages took 0.055
+[2024.12.01-11.14.20:746][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.14.20:810][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/DemiRectangle" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiRectangle.uasset" SILENT=true
+[2024.12.01-11.14.20:837][ 27]LogSavePackage: Moving output files for package: /Game/Assets/Lands/DemiRectangle
+[2024.12.01-11.14.20:837][ 27]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/DemiRectangleF45A29F24BE828DA14B9C6A388B1C113.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiRectangle.uasset'
+[2024.12.01-11.14.20:841][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/DemiCylindre" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiCylindre.uasset" SILENT=true
+[2024.12.01-11.14.20:847][ 27]LogSavePackage: Moving output files for package: /Game/Assets/Lands/DemiCylindre
+[2024.12.01-11.14.20:847][ 27]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/DemiCylindre687691274B85BFA075E130B7CAC9AC16.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiCylindre.uasset'
+[2024.12.01-11.14.20:861][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 13.1 sec)
+[2024.12.01-11.14.20:869][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.01-11.14.20:869][ 27]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/DemiRectangle.DemiRectangle
+[2024.12.01-11.14.20:869][ 27]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.14.26:545][615]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.12.01-11.14.26:551][615]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.12.01-11.14.26:561][616]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.12.01-11.14.37:230][722]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Snow_Land
+[2024.12.01-11.14.37:231][722]LogContentBrowser: End creating deferred item NewMaterial
+[2024.12.01-11.14.38:368][812]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Lands/M_Snow_Land.M_Snow_Land
+[2024.12.01-11.14.38:382][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-11.14.38:382][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-11.14.38:605][812]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.38:605][812]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.38:605][812]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.38:608][812]LogViewport: Scene viewport resized to 802x774, mode Windowed.
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: ================================================
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Total job queries 259, among them cache hits 15 (5.79%)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Tracking 241 distinct input hashes that result in 45 distinct outputs (18.67%)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: RAM used: 5,58 MiB of 1,60 GiB budget. Usage: 0.34%
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Shaders Compiled: 235
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Jobs assigned 238, completed 235 (98.74%)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Average time worker was idle: 82.08 s
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.93 s
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.31 s
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.67
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.69 s
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Jobs were issued in 238 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Average processing rate: 9.52 jobs/sec
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Total thread time: 144,92 s
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Total thread preprocess time: 7,899 s
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Percentage time preprocessing: 5.45%
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Effective parallelization: 5.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 0.76 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   14 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   14 times, average 0.74 sec, max 0.82 sec, min 0.69 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   14 times, average 0.74 sec, max 0.83 sec, min 0.68 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   14 times, average 0.73 sec, max 0.84 sec, min 0.67 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.34% of total time (compiled   14 times, average 0.76 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.24% of total time (compiled   14 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.15% of total time (compiled   14 times, average 0.74 sec, max 0.82 sec, min 0.69 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.13% of total time (compiled   17 times, average 0.61 sec, max 0.86 sec, min 0.49 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.13% of total time (compiled   14 times, average 0.74 sec, max 0.83 sec, min 0.68 sec)
+[2024.12.01-11.14.39:234][850]LogShaderCompilers: Display: ================================================
+[2024.12.01-11.14.39:763][893]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.12.01-11.14.39:763][893]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.39:763][893]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.39:763][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.39:763][893]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.41:671][900]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.41:671][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.41:671][900]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.41:742][903]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.12.01-11.14.41:742][903]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.41:742][903]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.41:742][903]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.41:742][903]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.43:980][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.43:980][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.43:980][ 80]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.44:605][118]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.44:605][118]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.44:605][118]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.44:605][118]MaterialEditorStats: Shader Count: 3
+[2024.12.01-11.14.44:680][125]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.12.01-11.14.44:680][125]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.44:680][125]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.44:680][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.44:680][125]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.46:739][295]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.46:739][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.46:739][295]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.47:427][338]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.12.01-11.14.47:427][338]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.47:427][338]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.47:427][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.47:427][338]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.48:540][447]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.48:540][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.48:540][447]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.49:273][494]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.12.01-11.14.49:273][494]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.49:273][494]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.49:273][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.49:273][494]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.50:136][565]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.01-11.14.50:147][565]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.50:147][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.50:147][565]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.50:191][567]MaterialEditorStats: Base pass shader: 224 instructions
+[2024.12.01-11.14.50:191][567]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.50:191][567]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.50:191][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.50:191][567]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.52:922][775]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2424 files in 3611 folders with total size 103 MiB.
+[2024.12.01-11.14.53:761][837]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.53:761][837]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.53:762][837]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.54:485][867]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.54:485][867]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.54:485][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.54:485][867]MaterialEditorStats: Shader Count: 3
+[2024.12.01-11.14.55:322][934]MaterialEditorStats: Base pass shader: 226 instructions
+[2024.12.01-11.14.55:322][934]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.55:322][934]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.55:322][934]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.55:322][934]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.14.57:269][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.14.57:270][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.57:270][ 82]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.14.58:017][121]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.12.01-11.14.58:017][121]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.14.58:017][121]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.14.58:017][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.14.58:017][121]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.15.00:946][380]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.15.00:946][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.15.00:946][380]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.15.01:511][412]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.15.01:511][412]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.15.01:511][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.15.01:511][412]MaterialEditorStats: Shader Count: 3
+[2024.12.01-11.15.01:592][417]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.12.01-11.15.01:592][417]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.15.01:592][417]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.15.01:592][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.15.01:592][417]MaterialEditorStats: Shader Count: 4
+[2024.12.01-11.15.06:299][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.01-11.15.06:316][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.15.06:397][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/M_Snow_Land" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/M_Snow_Land.uasset" SILENT=true
+[2024.12.01-11.15.06:398][837]LogSavePackage: Moving output files for package: /Game/Assets/Lands/M_Snow_Land
+[2024.12.01-11.15.06:398][837]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/M_Snow_LandC6611E094A1C91F65F196A81849317CD.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/M_Snow_Land.uasset'
+[2024.12.01-11.15.06:415][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 13.2 sec)
+[2024.12.01-11.15.06:425][837]AssetCheck: New page: Asset Save: M_Snow_Land
+[2024.12.01-11.15.06:425][837]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Lands/M_Snow_Land.M_Snow_Land
+[2024.12.01-11.15.30:224][377]LogMaterialEditor: Saving and Compiling material M_Snow_Land
+[2024.12.01-11.15.30:572][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.01-11.15.31:496][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.01-11.15.31:509][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.15.33:333][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/M_Snow_Land" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/M_Snow_Land.uasset" SILENT=true
+[2024.12.01-11.15.33:354][377]LogSavePackage: Moving output files for package: /Game/Assets/Lands/M_Snow_Land
+[2024.12.01-11.15.33:354][377]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/M_Snow_Land96BA0CE5471A897A3BF417B641DB876A.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/M_Snow_Land.uasset'
+[2024.12.01-11.15.33:372][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.86 sec (total: 15.1 sec)
+[2024.12.01-11.15.33:379][377]AssetCheck: New page: Asset Save: M_Snow_Land
+[2024.12.01-11.15.33:379][377]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Lands/M_Snow_Land.M_Snow_Land
+[2024.12.01-11.15.33:381][377]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.12.01-11.15.33:381][377]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.15.33:381][377]MaterialEditorStats: MaxSampler: 275 instructions
+[2024.12.01-11.15.33:381][377]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.01-11.15.33:381][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.15.33:381][377]MaterialEditorStats: Shader Count: 16
+[2024.12.01-11.15.52:202][670]LogViewport: Scene viewport resized to 2787x1884, mode Windowed.
+[2024.12.01-11.16.06:105][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.16.06:105][916]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.16.06:106][916]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre as actor: StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_0
+[2024.12.01-11.16.06:114][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.16.08:586][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.16.08:586][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.16.08:592][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre as actor: StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5AE3402_1671735031
+[2024.12.01-11.16.33:871][370]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.12.01-11.16.33:871][370]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.TSR.History.GrandReprojection:0]]
+[2024.12.01-11.16.33:871][370]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.12.01-11.16.33:871][370]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.12.01-11.16.33:871][370]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.12.01-11.16.33:872][370]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.12.01-11.16.33:872][370]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.12.01-11.16.33:872][370]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.12.01-11.16.34:252][375]LogContentStreaming: Texture pool size now 800 MB
+[2024.12.01-11.17.37:816][644]LogViewport: Scene viewport resized to 941x915, mode Windowed.
+[2024.12.01-11.17.40:310][835]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.17.40:311][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.17.40:311][835]MaterialEditorStats: Shader Count: 0
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: ================================================
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Total job queries 336, among them cache hits 39 (11.61%)
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Tracking 291 distinct input hashes that result in 68 distinct outputs (23.37%)
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: RAM used: 6,58 MiB of 1,60 GiB budget. Usage: 0.40%
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Shaders Compiled: 285
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Jobs assigned 291, completed 285 (97.94%)
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Average time worker was idle: 115.73 s
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.00 s
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.31 s
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.67
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.86 s
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Jobs were issued in 291 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Average processing rate: 8.67 jobs/sec
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Total thread time: 171,894 s
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Total thread preprocess time: 9,298 s
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Percentage time preprocessing: 5.41%
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Effective parallelization: 5.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-11.17.41:013][875]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 0.77 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   15 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   15 times, average 0.75 sec, max 0.84 sec, min 0.69 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   15 times, average 0.74 sec, max 0.83 sec, min 0.68 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   15 times, average 0.73 sec, max 0.84 sec, min 0.67 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.74% of total time (compiled   28 times, average 0.60 sec, max 0.86 sec, min 0.49 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.57% of total time (compiled   28 times, average 0.53 sec, max 0.80 sec, min 0.43 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.68% of total time (compiled   15 times, average 0.77 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.58% of total time (compiled   15 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.52% of total time (compiled   15 times, average 0.75 sec, max 0.84 sec, min 0.69 sec)
+[2024.12.01-11.17.41:014][875]LogShaderCompilers: Display: ================================================
+[2024.12.01-11.17.41:230][887]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.17.41:230][887]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.01-11.17.41:230][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.17.41:230][887]MaterialEditorStats: Shader Count: 5
+[2024.12.01-11.17.41:345][896]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.12.01-11.17.41:345][896]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.12.01-11.17.41:345][896]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.01-11.17.41:345][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.01-11.17.41:345][896]MaterialEditorStats: Shader Count: 6
+[2024.12.01-11.17.44:946][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.17.45:023][144]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_01/C/L1/0LR9IZWBCG0TQ5D3C3XKE6
+[2024.12.01-11.17.45:023][144]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/0LR9IZWBCG0TQ5D3C3XKE6A9AC22D74223FFACAC6D59B8B1CF0A9E.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/__ExternalActors__/Maps/Test_01/C/L1/0LR9IZWBCG0TQ5D3C3XKE6.uasset'
+[2024.12.01-11.17.45:043][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 15.2 sec)
+[2024.12.01-11.17.45:056][144]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_D85ED3AC1EE5AE3402_1671735031
+[2024.12.01-11.17.45:056][144]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5AE3402_1671735031
+[2024.12.01-11.17.55:716][849]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.17.55:724][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-11.17.55:724][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-11.17.56:034][849]LogViewport: Scene viewport resized to 2620x1884, mode Windowed.
+[2024.12.01-11.18.47:814][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.18.47:882][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/DemiCylindre" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiCylindre.uasset" SILENT=true
+[2024.12.01-11.18.47:884][327]LogSavePackage: Moving output files for package: /Game/Assets/Lands/DemiCylindre
+[2024.12.01-11.18.47:885][327]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/DemiCylindre73E8C8214567038CD6A5AE8D86A9F004.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiCylindre.uasset'
+[2024.12.01-11.18.47:900][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 15.3 sec)
+[2024.12.01-11.18.47:911][327]AssetCheck: New page: Asset Save: DemiCylindre
+[2024.12.01-11.18.47:911][327]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.19.21:635][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.19.21:712][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/DemiCylindre" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiCylindre.uasset" SILENT=true
+[2024.12.01-11.19.21:716][804]LogSavePackage: Moving output files for package: /Game/Assets/Lands/DemiCylindre
+[2024.12.01-11.19.21:717][804]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/DemiCylindreDF8C623941C7DE8A565FC38304BEB427.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/DemiCylindre.uasset'
+[2024.12.01-11.19.21:723][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 15.4 sec)
+[2024.12.01-11.19.21:738][804]AssetCheck: New page: Asset Save: DemiCylindre
+[2024.12.01-11.19.21:738][804]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/DemiCylindre.DemiCylindre
+[2024.12.01-11.21.37:054][ 18]LogViewport: Scene viewport resized to 1810x1884, mode Windowed.
+[2024.12.01-11.22.02:948][440]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.23.48:735][394]LogStaticMesh: Display: Building static mesh Cylinder_AF356B62...
+[2024.12.01-11.23.48:737][394]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62
+[2024.12.01-11.23.48:837][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62
+[2024.12.01-11.23.48:837][394]LogStaticMesh: Display: Building static mesh Cylinder_AF356B62...
+[2024.12.01-11.23.48:839][394]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62
+[2024.12.01-11.23.48:839][394]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62 as actor: StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5AE3402_2131985032
+[2024.12.01-11.24.58:691][996]LogStaticMesh: Display: Building static mesh Cylinder_AF356B62...
+[2024.12.01-11.24.58:695][996]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62
+[2024.12.01-11.25.53:352][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2024.12.01-11.25.53:372][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Test_01/E/T2/LZ5ZKQPFGWEKPQ06YF98Q3_Auto4
+[2024.12.01-11.25.53:372][ 58]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/LZ5ZKQPFGWEKPQ06YF98Q3_Auto4C01003C44B7670E83C6351939481978C.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_01/E/T2/LZ5ZKQPFGWEKPQ06YF98Q3_Auto4.uasset'
+[2024.12.01-11.25.53:373][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_01' took 0.071
+[2024.12.01-11.25.53:373][ 58]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2024.12.01-11.25.53:374][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62] ([1] browsable assets)...
+[2024.12.01-11.25.53:418][ 58]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62]
+[2024.12.01-11.25.53:418][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62]
+[2024.12.01-11.25.53:422][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62_Auto4
+[2024.12.01-11.25.53:422][ 58]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Cylinder_AF356B62_Auto4FA2AA8364545A3340A44EF867CEE9998.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62_Auto4.uasset'
+[2024.12.01-11.25.53:423][ 58]LogFileHelpers: Auto-saving content packages took 0.049
+[2024.12.01-11.28.52:898][468]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.12.01-11.29.21:179][175]LogSlate: Window 'Login' being destroyed
+[2024.12.01-11.29.23:507][386]LogSlate: Window 'Login' being destroyed
+[2024.12.01-11.29.23:533][386]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.29.23:533][386]LogWebBrowser: Deleting browser for Url=https://www.epicgames.com/id/login?client_id=b9101103b8814baa9bb4e79e5eb107d0&response_type=code.
+[2024.12.01-11.29.38:838][726]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.29.38:838][726]LogWebBrowser: Deleting browser for Url=https://www.epicgames.com/id/login?client_id=b9101103b8814baa9bb4e79e5eb107d0&response_type=code.
+[2024.12.01-11.29.54:557][278]LogSlate: Window 'Login' being destroyed
+[2024.12.01-11.29.59:091][764]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.29.59:091][764]LogWebBrowser: Deleting browser for Url=file:///D:/Epic/UE_5.2/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1bGllbmpveWV1eDAwN0BnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiMGJiODcyY2U5ZmJlNDdiNDhjZDgwNDBhYmJjMDI4MjgiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiYzM0ZTExYTItYTYxMy00ZjNjLTllNDEtNDExMmVhMGZkMDY1IiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwibWhjIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTczMDcxMjg4NCwiZXhwIjoxNzMwNzQxNjg0LCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiI3N2YxMjgwZi1hNTA0LTQzZmUtYmFhNi1hNDRlZWZhN2M5YzIifQ.CG-o9_e2k1xX63uO64IBSDFl6NGmGYYu17MaJXrKUVJw0wDipu4SCVI9QfXSfih36P0PPGbR47PvurfF6m85zaA5FzAK-VAvvP3VCD3XIWubwTzR8GUUqfa2xYIJfI74qHAY2yE1GGjALGJppV-gTT3ojnJSg4V_hVX5YzvK7R0OYdhRC5UrxRIA34iDV6OC6mWa3MNM6eVEszKIlJmZqNKMTVIx4tvXWrppNzsYmmNS5TXvYdvXwSG_3auz03i6dxLqauYMlO-ed_ZJ-Yz7T2sA1quOPjkJyxx43RPJW2qMoHma1LzOJ1Unr6t7jO4b8vQfk4Ep1dXIuXlZGT8fBw&refreshToken=YTgzNjc3YmQtMDMxOC00OGEwLWJlNWMtMGJkMDNkNTQ3ZTQ3#/megascans/?search=ice&search=wall.
+[2024.12.01-11.29.59:099][764]LogViewport: Scene viewport resized to 2620x1993, mode Windowed.
+[2024.12.01-11.29.59:145][765]LogViewport: Scene viewport resized to 2620x1955, mode Windowed.
+[2024.12.01-11.29.59:226][766]LogViewport: Scene viewport resized to 2620x1893, mode Windowed.
+[2024.12.01-11.29.59:312][767]LogViewport: Scene viewport resized to 2620x1884, mode Windowed.
+[2024.12.01-11.30.01:586][954]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.30.01:586][954]LogWebBrowser: Deleting browser for Url=https://accounts.google.com/v3/signin/identifier?opparams=%253Fservice_entity%253Dundefined%2526force_verify%253Dtrue&dsh=S-2059654685%3A1733052589670869&client_id=81931294547-ict6llss8611g9nglndn2bnln48bo59d.apps.googleusercontent.com&ddm=1&display=popup&nonce=Uk61oXIr&o2v=1&redirect_uri=https%3A%2F%2Faccounts.epicgames.com%2FOAuthAuthorized&response_type=code&scope=openid+email+profile&service=lso&state=eyJpZCI6ImI2YzAxMzU0OWY0MDQ2M2Y4OTY5MzczYmY2NTU2NWRlIn0%3D&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMiOdkrhxswrUN1NYs_KLABRH-YLKgcdWl85bf0cBSdBGZUPML24qX58gfhvjZAf8D5x-2KAmrA2BaMfkbWkymBr7abGbf2r9iZzxIO1kUyiAQhcXTDNmyHdX0-PFspPg1DbB5hPvdBelkX160mDsKrbOBRNzks8Gf7YYRP51PaT2-f9DFitVQKshOF_w6Q8qp56ltpAj8GPTT0Plzf23P6G2jDh98zRcvcJnBkMxkqoVcaUd5N7tOCY8STxowGAF7bG-VktJcr4VbV9Hc4jClZZLU6pHer-SJbOdfHyPY0wDaxkRfZVQeKGE65Cq5wqEclU3ePphUNS1tr2HKWLj13bnK--yWNgrLQGxtxyrQauOcDyQ-XJMiRETR--ZWj-Q87L_HMcO1Ka05UJ3wr-7NvZRt2mIJv7ahFuoXlHm40thVOo0D9_JaK_9noIZUEN8ySz4zkjP5jkATLmIZY5LKNugqrvpFYHPlNcHPNEb1QqPPRR4E%26flowName%3DGeneralOAuthFlow%26as%3DS-2059654685%253A1733052589670869%26client_id%3D81931294547-ict6llss8611g9nglndn2bnln48bo59d.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Faccounts.epicgames.com&rart=ANgoxcfqkA6N0N7KaBt6LihWDcaUahUsDfYs0nE4oT1nb6XNIiHfXyz1naseiBspITifClfEDlp5ZASN94BZxOpoiBNdBTJFqWWbSYmrXEdRNavioyIkSVw.
+[2024.12.01-11.30.01:589][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.12.01-11.30.01:595][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.30.01:654][954]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Test_01/E/T2/LZ5ZKQPFGWEKPQ06YF98Q3
+[2024.12.01-11.30.01:654][954]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/LZ5ZKQPFGWEKPQ06YF98Q3730DF33B4C0DF4F7B6D18E92D121ECE8.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/__ExternalActors__/Maps/Test_01/E/T2/LZ5ZKQPFGWEKPQ06YF98Q3.uasset'
+[2024.12.01-11.30.01:657][954]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62
+[2024.12.01-11.30.01:657][954]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Cylinder_AF356B626384D3AC4DC2FAAD8A8D1493A515A2B9.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Maps/_GENERATED/Wouam/Cylinder_AF356B62.uasset'
+[2024.12.01-11.30.01:666][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 15.4 sec)
+[2024.12.01-11.30.01:679][954]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.01-11.30.01:679][954]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5AE3402_2131985032
+[2024.12.01-11.30.01:679][954]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/Wouam/Cylinder_AF356B62.Cylinder_AF356B62
+[2024.12.01-11.32.23:813][994]LogSlate: Window 'Login' being destroyed
+[2024.12.01-11.32.27:284][172]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.32.27:286][172]LogWebBrowser: Deleting browser for Url=https://accounts.google.com/v3/signin/challenge/pwd?TL=AKOx4s2efLPmjLemRRfCOthLyatIqEtl1DIAQKZj78hZylFEMyXFZtBnAb8okNJA&app_domain=https%3A%2F%2Faccounts.epicgames.com&checkConnection=youtube%3A128&checkedDomains=youtube&cid=2&client_id=81931294547-ict6llss8611g9nglndn2bnln48bo59d.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOR4KV8AfFR1oiCEs878LPXx5GPluLHTCPJmsSxQv1-WJkWtwm8O3g-IWvN0W5d_tcuy80MXBQsyC2uZwimfgqO-PYhTXncIq6d32THsxRzV5GYJVC0QCKfHnnFetxQak_OT1NxJkmdmQUk3W5xs2cUzBuNuFfgyRisBJj2FTgzRGH8UOXt2RX22QIL5cpAFc58u5QYf6KACRLXs_KphgUF-FMt5hRncJoeIn205LCWkgVg_MEUtUSatEN4K3VogXI8n3fEPNbMAv8yzBZMk0_TfEyFXmBqaJ-5jNwayLuxN_wR0xG3O31wYB63dhlQe3uvaouFgM_j59l38uCIzGO5CbkW18iAj0ciyGmPDHWRnjSuwl5X9sZPp9Ve4X9_J6e36HksIrtgbrf2z6MaH1CMNY63wy9Nz3yfw1Dm1pfsGy_DygoPE74Gkz1G--ly_tQF9xFAiDKD5L0VQuVSS0dX1VEkOlgEzznGb5i_0c3F0gmR5Wc%26flowName%3DGeneralOAuthFlow%26as%3DS-569366553%253A1733052653951685%26client_id%3D81931294547-ict6llss8611g9nglndn2bnln48bo59d.apps.googleusercontent.com%23&ddm=1&display=popup&dsh=S-569366553%3A1733052653951685&flowName=GeneralOAuthFlow&nonce=OaGY2YR5&o2v=1&opparams=%253Fservice_entity%253Dundefined%2526force_verify%253Dtrue&pstMsg=1&rart=ANgoxceMoHaBk291pV1veVt_WGtDUC6Tnv7TqvTrKfPPz-PrrcCSm68uy_dAmoDuPDZFv7kZu_mrC0l3s34AtiWf6NQOH5PWsg796niaInuD7Gdf1sRIugM&redirect_uri=https%3A%2F%2Faccounts.epicgames.com%2FOAuthAuthorized&response_type=code&scope=openid%20email%20profile&service=lso&state=eyJpZCI6IjhjYTFjMjFjYTU4MDQ2MWM4ZDVjYjFjM2I1N2RmYTc5In0%3D.
+[2024.12.01-11.33.07:310][706]LogSlate: Window 'Login' being destroyed
+[2024.12.01-11.33.46:746][896]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.33.46:746][896]LogWebBrowser: Deleting browser for Url=file:///D:/Epic/UE_5.2/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/?search=ice.
+[2024.12.01-11.33.46:763][896]LogViewport: Scene viewport resized to 2620x1994, mode Windowed.
+[2024.12.01-11.33.46:843][897]LogViewport: Scene viewport resized to 2620x1925, mode Windowed.
+[2024.12.01-11.33.46:981][898]LogViewport: Scene viewport resized to 2620x1884, mode Windowed.
+[2024.12.01-11.34.48:711][729]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Ice_Wall_uebjabcr/T_Ice_Wall_uebjabcr_2K_N.T_Ice_Wall_uebjabcr_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2024.12.01-11.34.48:712][729]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Ice_Wall_uebjabcr/T_IceWall_uebjabcr_2K_ORDp.T_IceWall_uebjabcr_2K_ORDp (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.12.01-11.34.48:715][729]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Ice_Wall_uebjabcr/T_Ice_Wall_uebjabcr_2K_D.T_Ice_Wall_uebjabcr_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.12.01-11.37.35:809][128]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.12.01-11.37.42:374][593]Cmd: ACTOR HIDE SELECTED
+[2024.12.01-11.37.45:590][816]Cmd: ACTOR HIDE SELECTED
+[2024.12.01-11.40.51:436][851]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.01-11.40.51:436][851]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=107f1b7d82dc4ffc9b71232b6f4111d3.
+[2024.12.01-11.40.51:438][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.12.01-11.40.51:513][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Test_01/4/KB/QLO1NAD11L7QH035L4EF9B_Auto5
+[2024.12.01-11.40.51:514][851]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/QLO1NAD11L7QH035L4EF9B_Auto56B7E26484A97E5B54A9077B2A05DCFC5.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_01/4/KB/QLO1NAD11L7QH035L4EF9B_Auto5.uasset'
+[2024.12.01-11.40.51:519][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_01' took 0.117
+[2024.12.01-11.40.51:519][851]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2024.12.01-11.43.31:265][ 64]LogViewport: Scene viewport resized to 2787x1884, mode Windowed.
+[2024.12.01-11.43.32:532][146]Cmd: DELETE
+[2024.12.01-11.43.32:532][146]Cmd: ACTOR DELETE
+[2024.12.01-11.43.32:576][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.01-11.43.32:605][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.01-11.43.32:614][146]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.12.01-11.43.38:089][576]Cmd: DELETE
+[2024.12.01-11.43.38:089][576]Cmd: ACTOR DELETE
+[2024.12.01-11.43.38:093][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.01-11.43.38:126][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.01-11.43.38:131][576]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.12.01-11.43.44:379][105]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.50.51:659][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.01-11.50.51:669][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Test_01/4/KB/QLO1NAD11L7QH035L4EF9B_Auto6
+[2024.12.01-11.50.51:669][863]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/QLO1NAD11L7QH035L4EF9B_Auto650EC398741FCEC712BC2EF93F77F2D2F.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_01/4/KB/QLO1NAD11L7QH035L4EF9B_Auto6.uasset'
+[2024.12.01-11.50.51:670][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_01' took 0.036
+[2024.12.01-11.50.51:670][863]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2024.12.01-11.53.54:129][415]Cmd: DELETE
+[2024.12.01-11.53.54:129][415]Cmd: ACTOR DELETE
+[2024.12.01-11.53.54:132][415]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2024.12.01-11.53.54:163][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.01-11.53.54:166][415]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.12.01-11.53.55:544][534]Cmd: TRANSACTION UNDO
+[2024.12.01-11.53.55:544][534]LogEditorTransaction: Undo Delete Elements
+[2024.12.01-11.53.55:969][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.54.18:568][543]LogViewport: Scene viewport resized to 1810x1884, mode Windowed.
+[2024.12.01-11.55.17:387][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/Wouam/HalfPipe_39D49C30.HalfPipe_39D49C30
+[2024.12.01-11.55.17:387][321]LogStaticMesh: Display: Building static mesh HalfPipe_39D49C30...
+[2024.12.01-11.55.17:394][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/Wouam/HalfPipe_39D49C30.HalfPipe_39D49C30 as actor: StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5B03402_1873051388
+[2024.12.01-11.55.17:395][321]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/_GENERATED/Wouam/HalfPipe_39D49C30.HalfPipe_39D49C30
+[2024.12.01-11.55.40:406][332]Cmd: TRANSACTION UNDO
+[2024.12.01-11.55.40:407][332]LogEditorTransaction: Undo Scale Elements
+[2024.12.01-11.55.40:713][332]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.56.33:850][493]Cmd: TRANSACTION UNDO
+[2024.12.01-11.56.33:850][493]LogEditorTransaction: Undo Transform
+[2024.12.01-11.56.34:153][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.56.34:813][520]Cmd: TRANSACTION UNDO
+[2024.12.01-11.56.34:813][520]LogEditorTransaction: Undo Transform
+[2024.12.01-11.56.35:041][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.56.36:031][580]Cmd: TRANSACTION UNDO
+[2024.12.01-11.56.36:031][580]LogEditorTransaction: Undo Transform
+[2024.12.01-11.56.36:274][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.01-11.56.56:980][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.56.57:077][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/HalfPipe_39D49C30" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/HalfPipe_39D49C30.uasset" SILENT=true
+[2024.12.01-11.56.57:085][830]LogSavePackage: Moving output files for package: /Game/Assets/Lands/HalfPipe_39D49C30
+[2024.12.01-11.56.57:085][830]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/HalfPipe_39D49C30AD078FC94276A2D8771F379408CB21F2.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/HalfPipe_39D49C30.uasset'
+[2024.12.01-11.56.57:096][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 15.6 sec)
+[2024.12.01-11.56.57:162][830]LogWorldPartition: Actor /Game/Maps/Test_01.Test_01:PersistentLevel.DynamicMeshActor_UAID_D85ED3AC1EE5AF3402_1842784210 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_01/6/S2/OE9VE1VAGDO138X8S4CEZ0.PackageMetaData in its package
+[2024.12.01-11.56.57:162][830]LogWorldPartition: Actor /Game/Maps/Test_01.Test_01:PersistentLevel.DynamicMeshActor_UAID_D85ED3AC1EE5AF3402_2008581211 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_01/4/KB/QLO1NAD11L7QH035L4EF9B.PackageMetaData in its package
+[2024.12.01-11.56.57:162][830]LogWorldPartition: Actor /Game/Maps/Test_01.Test_01:PersistentLevel.DynamicMeshActor_UAID_D85ED3AC1EE5AF3402_1806247209 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_01/7/AD/NFTEY0OH50IEYE0RXEE3NJ.PackageMetaData in its package
+[2024.12.01-11.56.57:176][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.12.01-11.56.57:204][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.12.01-11.56.57:234][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.01-11.56.57:279][830]AssetCheck: New page: Asset Save: HalfPipe_39D49C30
+[2024.12.01-11.56.57:279][830]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/HalfPipe_39D49C30.HalfPipe_39D49C30
+[2024.12.01-11.56.57:598][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.01-11.57.08:570][929]LogContentBrowser: Attempting asset rename: HalfPipe_39D49C30 -> SM_HalfPipe_1
+[2024.12.01-11.57.08:598][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.57.08:660][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/SM_HalfPipe_1" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/SM_HalfPipe_1.uasset" SILENT=true
+[2024.12.01-11.57.08:673][929]LogSavePackage: Moving output files for package: /Game/Assets/Lands/SM_HalfPipe_1
+[2024.12.01-11.57.08:673][929]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/SM_HalfPipe_1C3FB1E4C4CA500A3D7BBC59EA6660478.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/SM_HalfPipe_1.uasset'
+[2024.12.01-11.57.08:686][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 15.7 sec)
+[2024.12.01-11.57.08:723][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.01-11.57.08:750][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.01-11.57.08:775][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.01-11.57.08:784][929]AssetCheck: New page: Asset Save: SM_HalfPipe_1
+[2024.12.01-11.57.08:784][929]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/SM_HalfPipe_1.SM_HalfPipe_1
+[2024.12.01-11.57.40:975][553]LogViewport: Scene viewport resized to 2787x1884, mode Windowed.
+[2024.12.01-11.57.43:721][741]Cmd: DELETE
+[2024.12.01-11.57.43:721][741]Cmd: ACTOR DELETE
+[2024.12.01-11.57.43:723][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.01-11.57.43:749][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.01-11.57.43:754][741]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.12.01-12.00.02:644][589]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.01-12.00.03:946][713]LogViewport: Scene viewport resized to 1810x1884, mode Windowed.
+[2024.12.01-12.00.11:905][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.12.01-12.00.11:905][202]Can't find target element.
+[2024.12.01-12.00.12:606][245]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.12.01-12.00.12:606][245]Can't find target element.
+[2024.12.01-12.00.13:850][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.12.01-12.00.13:850][318]Can't find target element.
+[2024.12.01-12.01.29:823][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/Wouam/Box_579B5B73.Box_579B5B73
+[2024.12.01-12.01.29:823][323]LogStaticMesh: Display: Building static mesh Box_579B5B73...
+[2024.12.01-12.01.29:825][323]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/Wouam/Box_579B5B73.Box_579B5B73
+[2024.12.01-12.01.29:828][323]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/Wouam/Box_579B5B73.Box_579B5B73 as actor: StaticMeshActor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5B13402_1171745565
+[2024.12.01-12.01.54:767][777]LogStaticMesh: Display: Building static mesh Box_579B5B73...
+[2024.12.01-12.01.54:769][777]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/Wouam/Box_579B5B73.Box_579B5B73
+[2024.12.01-12.02.22:842][675]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1663)].
+[2024.12.01-12.02.22:843][675]LogContentBrowser: Attempting asset rename: Box_579B5B73 -> SM_Wa
+[2024.12.01-12.02.22:874][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-12.02.22:880][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Wouam/SM_Wa" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Maps/_GENERATED/Wouam/SM_Wa.uasset" SILENT=true
+[2024.12.01-12.02.22:883][675]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Wouam/SM_Wa
+[2024.12.01-12.02.22:883][675]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/SM_Wa76A6AE0D405EEF4C75A6E3B4EEA32F88.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Maps/_GENERATED/Wouam/SM_Wa.uasset'
+[2024.12.01-12.02.22:884][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 9 ms (total: 15.7 sec)
+[2024.12.01-12.02.22:920][675]LogWorldPartition: Actor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5B03402_1873051388 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_01/9/1X/880K7DJ4S21USLLNMZFYMD.PackageMetaData in its package
+[2024.12.01-12.02.22:922][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.01-12.02.22:951][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.01-12.02.22:984][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.12.01-12.02.23:027][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.01-12.02.23:035][675]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/Test_01/2/SI/BEHRUFG1BEO7VP1M2DKKKM_Auto7
+[2024.12.01-12.02.23:035][675]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/BEHRUFG1BEO7VP1M2DKKKM_Auto729CF9688422E4F570BB170877F5BCF68.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/__ExternalActors__/Maps/Test_01/2/SI/BEHRUFG1BEO7VP1M2DKKKM_Auto7.uasset'
+[2024.12.01-12.02.23:036][675]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_01' took 0.039
+[2024.12.01-12.02.23:036][675]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.12.01-12.02.23:090][676]AssetCheck: New page: Asset Save: SM_Wa
+[2024.12.01-12.02.23:090][676]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/Wouam/SM_Wa.SM_Wa
+[2024.12.01-12.02.23:122][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.01-12.02.34:656][717]LogContentBrowser: Attempting asset rename: SM_Wa -> SM_Wall_Segment
+[2024.12.01-12.02.34:686][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-12.02.34:783][717]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Wouam/SM_Wall_Segment
+[2024.12.01-12.02.34:783][717]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/SM_Wall_SegmentC63C06EF40FE4F817C53F19CA130E2A3.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Maps/_GENERATED/Wouam/SM_Wall_Segment.uasset'
+[2024.12.01-12.02.34:793][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 15.8 sec)
+[2024.12.01-12.02.34:828][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.01-12.02.34:856][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.12.01-12.02.34:887][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.01-12.02.34:907][717]AssetCheck: New page: Asset Save: SM_Wall_Segment
+[2024.12.01-12.02.34:907][717]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/Wouam/SM_Wall_Segment.SM_Wall_Segment
+[2024.12.01-12.02.41:229][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-12.02.41:306][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/SM_Wall_Segment" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/SM_Wall_Segment.uasset" SILENT=true
+[2024.12.01-12.02.41:307][310]LogSavePackage: Moving output files for package: /Game/Assets/Lands/SM_Wall_Segment
+[2024.12.01-12.02.41:307][310]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/SM_Wall_Segment7BD57DC74C3FF8DBD27B3AA94BEDFF2E.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/SM_Wall_Segment.uasset'
+[2024.12.01-12.02.41:314][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 15.9 sec)
+[2024.12.01-12.02.41:359][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.01-12.02.41:388][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.12.01-12.02.41:414][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.01-12.02.41:444][310]AssetCheck: New page: Asset Save: SM_Wall_Segment
+[2024.12.01-12.02.41:444][310]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Lands/SM_Wall_Segment.SM_Wall_Segment
+[2024.12.01-12.02.46:497][580]Cmd: DELETE
+[2024.12.01-12.02.46:497][580]Cmd: ACTOR DELETE
+[2024.12.01-12.02.46:500][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.01-12.02.46:526][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.01-12.02.46:529][580]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.12.01-12.02.49:219][791]LogViewport: Scene viewport resized to 2787x1884, mode Windowed.
+[2024.12.01-12.04.21:784][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.01-12.04.21:791][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-12.04.21:913][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.01-12.04.21:940][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.01-12.04.21:965][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.01-12.04.21:974][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 16.0 sec)
+[2024.12.01-12.04.25:546][541]LogSlate: Window 'Message' being destroyed
+[2024.12.01-12.04.25:560][541]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Lands/M_Snow_Land.M_Snow_Land
+(Selecting 'No' will cause all changes to be lost!)
+[2024.12.01-12.04.25:655][541]LogWorldPartition: Actor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5AE3402_2131985032 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_01/E/T2/LZ5ZKQPFGWEKPQ06YF98Q3.PackageMetaData in its package
+[2024.12.01-12.04.25:655][541]LogWorldPartition: Actor /Game/Maps/Test_01.Test_01:PersistentLevel.StaticMeshActor_UAID_D85ED3AC1EE5AE3402_1671735031 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/Test_01/C/L1/0LR9IZWBCG0TQ5D3C3XKE6.PackageMetaData in its package
+[2024.12.01-12.04.25:657][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: ================================================
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Total job queries 353, among them cache hits 47 (13.31%)
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Tracking 297 distinct input hashes that result in 72 distinct outputs (24.24%)
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: RAM used: 6,71 MiB of 1,60 GiB budget. Usage: 0.41%
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Shaders Compiled: 291
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Jobs assigned 300, completed 291 (97.00%)
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Average time worker was idle: 200.65 s
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.00 s
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.31 s
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.67
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.30 s
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Jobs were issued in 300 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Average processing rate: 8.74 jobs/sec
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Total thread time: 174,573 s
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Total thread preprocess time: 9,415 s
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Percentage time preprocessing: 5.39%
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Effective parallelization: 5.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.01-12.04.25:867][541]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 0.77 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   15 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   15 times, average 0.75 sec, max 0.84 sec, min 0.69 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   15 times, average 0.74 sec, max 0.83 sec, min 0.68 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   15 times, average 0.73 sec, max 0.84 sec, min 0.67 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.97% of total time (compiled   29 times, average 0.60 sec, max 0.86 sec, min 0.49 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.79% of total time (compiled   29 times, average 0.53 sec, max 0.80 sec, min 0.43 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.61% of total time (compiled   25 times, average 0.46 sec, max 0.69 sec, min 0.36 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.57% of total time (compiled   15 times, average 0.77 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.48% of total time (compiled   15 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-12.04.25:868][541]LogShaderCompilers: Display: ================================================
+[2024.12.01-12.04.26:699][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.01-12.04.26:743][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.01-12.04.28:041][541]LogSlate: Window 'Save Content' being destroyed
+[2024.12.01-12.04.28:048][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-12.04.29:049][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Lands/M_Snow_Land" FILE="../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/M_Snow_Land.uasset" SILENT=true
+[2024.12.01-12.04.29:051][541]LogSavePackage: Moving output files for package: /Game/Assets/Lands/M_Snow_Land
+[2024.12.01-12.04.29:051][541]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/M_Snow_Land96DC7CE843B1DF3C9B2D068C9D5A9163.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/Assets/Lands/M_Snow_Land.uasset'
+[2024.12.01-12.04.29:084][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 17.1 sec)
+[2024.12.01-12.04.29:088][541]LogStall: Shutdown...
+[2024.12.01-12.04.29:097][541]LogStall: Shutdown complete.
+[2024.12.01-12.04.29:354][541]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.04.29:354][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-12.04.29:413][541]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.04.29:414][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-12.04.29:484][541]LogSlate: Window 'Sapin - Unreal Editor' being destroyed
+[2024.12.01-12.04.29:802][541]AssetCheck: New page: Asset Save: M_Snow_Land
+[2024.12.01-12.04.29:802][541]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Lands/M_Snow_Land.M_Snow_Land
+[2024.12.01-12.04.29:839][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.12.01-12.04.29:916][542]Cmd: QUIT_EDITOR
+[2024.12.01-12.04.29:916][542]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.01-12.04.29:921][542]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.01-12.04.29:921][542]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.01-12.04.29:921][542]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.01-12.04.30:024][542]LogWorld: UWorld::CleanupWorld for Test_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.04.30:025][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-12.04.30:026][542]LogContentBundle: [Test_01(Standalone)] Deleting container.
+[2024.12.01-12.04.30:027][542]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.01-12.04.30:028][542]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.01-12.04.30:219][542]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.01-12.04.30:219][542]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.01-12.04.30:219][542]LogAudio: Display: Audio Device unregistered from world 'Test_01'.
+[2024.12.01-12.04.30:219][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.12.01-12.04.30:220][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.01-12.04.30:223][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.01-12.04.30:246][542]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.01-12.04.30:260][542]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.01-12.04.30:260][542]LogExit: Preparing to exit.
+[2024.12.01-12.04.30:300][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.01-12.04.30:310][542]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:310][542]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:318][542]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:320][542]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:321][542]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.01-12.04.30:866][542]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.04.30:867][542]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.04.30:868][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.01-12.04.30:869][542]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-12.04.30:949][542]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.01-12.04.31:055][542]LogExit: Editor shut down
+[2024.12.01-12.04.31:059][542]LogExit: Transaction tracking system shut down
+[2024.12.01-12.04.31:421][542]LogExit: Object subsystem successfully closed.
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: ================================================
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Total job queries 363, among them cache hits 47 (12.95%)
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Tracking 316 distinct input hashes that result in 79 distinct outputs (25.00%)
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: RAM used: 7,14 MiB of 1,60 GiB budget. Usage: 0.44%
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Shaders Compiled: 310
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Jobs assigned 310, completed 310 (100.00%)
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Average time worker was idle: 203.81 s
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 1.00 s
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.31 s
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.67
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.19 s
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Jobs were issued in 310 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Average processing rate: 8.81 jobs/sec
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Total thread time: 184,684 s
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Total thread preprocess time: 9,98 s
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Percentage time preprocessing: 5.40%
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Effective parallelization: 5.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.12.01-12.04.31:431][542]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.76 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   16 times, average 0.74 sec, max 0.84 sec, min 0.69 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   16 times, average 0.74 sec, max 0.83 sec, min 0.68 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   16 times, average 0.74 sec, max 0.84 sec, min 0.67 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.74% of total time (compiled   30 times, average 0.60 sec, max 0.86 sec, min 0.49 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.56% of total time (compiled   30 times, average 0.53 sec, max 0.80 sec, min 0.43 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.62% of total time (compiled   16 times, average 0.76 sec, max 0.87 sec, min 0.72 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.52% of total time (compiled   16 times, average 0.75 sec, max 0.85 sec, min 0.71 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.47% of total time (compiled   26 times, average 0.46 sec, max 0.69 sec, min 0.36 sec)
+[2024.12.01-12.04.31:433][542]LogShaderCompilers: Display: ================================================
+[2024.12.01-12.04.31:442][542]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.01-12.04.31:552][542]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.01-12.04.31:786][542]LogVirtualization: UE::Virtualization was shutdown
+[2024.12.01-12.04.31:800][542]LogModuleManager: Shutting down and abandoning module WebBrowser (1029)
