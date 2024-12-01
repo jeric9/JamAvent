@@ -3002,3 +3002,98 @@ An asset already exists at the import location: /Game/Assets/Rocks/rock09
 [2024.12.01-10.52.33:732][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.12.01-10.52.33:795][965]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
 [2024.12.01-10.52.33:795][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-10.54.45:865][ 84]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.Button_MainMenu
+[2024.12.01-10.54.45:865][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-10.54.45:865][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-10.54.45:876][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-10.54.45:876][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-10.55.21:449][730]LogSlate: Window 'Create New Blueprint' being destroyed
+[2024.12.01-10.55.22:021][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/UI/Styles/Text/TextStyle_01.TextStyle_01
+[2024.12.01-10.55.22:022][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.01-10.55.22:022][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.01-10.55.25:264][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.01-10.55.25:293][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Test_01' took 0.068
+[2024.12.01-10.55.25:294][901]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu] ([2] browsable assets)...
+[2024.12.01-10.55.25:301][901]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.Button_MainMenu]
+[2024.12.01-10.55.25:301][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu]
+[2024.12.01-10.55.25:305][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu_Auto2
+[2024.12.01-10.55.25:305][901]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Button_MainMenu_Auto2C7584CD242207631C8817EB400FD9DFA.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu_Auto2.uasset'
+[2024.12.01-10.55.25:306][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/UI/Styles/Text/TextStyle_01] ([2] browsable assets)...
+[2024.12.01-10.55.25:306][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI/Styles/Text/TextStyle_01]
+[2024.12.01-10.55.25:317][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/UI/Styles/Text/TextStyle_01_Auto2
+[2024.12.01-10.55.25:317][901]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/TextStyle_01_Auto2594F271545E754BDBE0D3FAD2EA32CC1.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Autosaves/Game/BluePrints/UI/Styles/Text/TextStyle_01_Auto2.uasset'
+[2024.12.01-10.55.25:318][901]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.12.01-10.55.45:044][887]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.01-10.55.47:245][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-10.55.47:311][992]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/Styles/Text/TextStyle_01
+[2024.12.01-10.55.47:311][992]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/TextStyle_010E8CA775465BB7106D57AAA21E8CA049.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/BluePrints/UI/Styles/Text/TextStyle_01.uasset'
+[2024.12.01-10.55.47:329][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 12.6 sec)
+[2024.12.01-10.55.47:337][992]AssetCheck: New page: Asset Save: TextStyle_01
+[2024.12.01-10.55.47:337][992]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/UI/Styles/Text/TextStyle_01.TextStyle_01
+[2024.12.01-10.55.49:303][ 90]BlueprintLog: New page: Compile TextStyle_01
+[2024.12.01-10.55.49:350][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.12.01-10.56.04:054][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-10.56.04:130][738]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu
+[2024.12.01-10.56.04:131][738]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Button_MainMenu2B59D0FE429E6D1DDDED08BF4608B77C.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.uasset'
+[2024.12.01-10.56.04:147][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 12.7 sec)
+[2024.12.01-10.56.04:157][738]AssetCheck: New page: Asset Save: Button_MainMenu
+[2024.12.01-10.56.04:157][738]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.Button_MainMenu
+[2024.12.01-10.56.35:113][ 25]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.12.01-10.56.35:113][ 25]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.12.01-10.56.44:322][439]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BluePrints/UI/Assets/uigraph/demarrer/btn_demarrer_link.btn_demarrer_link
+[2024.12.01-10.56.44:388][439]LogViewport: Scene viewport resized to 2430x1634, mode Windowed.
+[2024.12.01-10.56.44:478][440]LogViewport: Scene viewport resized to 2430x1592, mode Windowed.
+[2024.12.01-10.56.44:522][441]LogViewport: Scene viewport resized to 2430x1586, mode Windowed.
+[2024.12.01-10.56.57:422][ 81]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-10.56.57:422][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-10.58.28:040][505]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.12.01-11.10.22:908][955]LogInterchangeEngine: [Pending] Importing
+[2024.12.01-11.10.22:908][955]LogInterchangeEngine: Display: Interchange start importing source [D:/OriGaming_St...2024/Sapin/MenuMenu_Button_Panel_2.png]
+[2024.12.01-11.10.22:908][955]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.01-11.10.22:931][956]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.12.01-11.10.22:954][956]LogTexture: Display: Building textures: /Game/BluePrints/UI/Styles/Button/Menu_Button_Panel_2.Menu_Button_Panel_2 (BGRA8, 1983x877 x1x1x1) (Required Memory Estimate: 50.923977 MB), EncodeSpeed: Fast
+[2024.12.01-11.10.22:958][956]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.01-11.10.23:235][956]LogInterchangeEngine: [Success] Import Done
+[2024.12.01-11.10.23:235][956]LogInterchangeEngine: [Pending] Importing
+[2024.12.01-11.10.23:235][956]LogInterchangeEngine: Display: Interchange start importing source [D:/OriGaming_St...2024/Sapin/MenuMenu_Button_Panel.png]
+[2024.12.01-11.10.23:267][956]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.12.01-11.10.23:316][956]LogTexture: Display: Building textures: /Game/BluePrints/UI/Styles/Button/Menu_Button_Panel.Menu_Button_Panel (BGRA8, 2156x1162 x1x1x1) (Required Memory Estimate: 73.331703 MB), EncodeSpeed: Fast
+[2024.12.01-11.10.23:361][957]LogInterchangeEngine: [Success] Import Done
+[2024.12.01-11.10.23:392][957]LogInterchangeEngine: [Success] Import Done
+[2024.12.01-11.10.23:426][957]LogInterchangeEngine: [Success] Import Done
+[2024.12.01-11.11.56:823][834]BlueprintLog: New page: Compile Button_MainMenu
+[2024.12.01-11.11.56:868][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.12.01-11.11.57:761][860]BlueprintLog: New page: Compile Button_MainMenu
+[2024.12.01-11.11.57:802][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.01-11.11.58:778][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.11.58:879][889]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu
+[2024.12.01-11.11.58:880][889]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Button_MainMenuA2BEB03D46C0113517942196A36CDC53.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.uasset'
+[2024.12.01-11.11.58:892][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 12.8 sec)
+[2024.12.01-11.11.58:899][889]AssetCheck: New page: Asset Save: Button_MainMenu
+[2024.12.01-11.11.58:899][889]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.Button_MainMenu
+[2024.12.01-11.12.09:204][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.01-11.12.09:274][331]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu
+[2024.12.01-11.12.09:274][331]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Button_MainMenu28F45A3E49AD164A4FCF7BBC295BB5AE.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.uasset'
+[2024.12.01-11.12.09:331][331]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/Styles/Button/Menu_Button_Panel
+[2024.12.01-11.12.09:331][331]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Menu_Button_PanelE0805649497459C9B54D99B8409CA6C7.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/BluePrints/UI/Styles/Button/Menu_Button_Panel.uasset'
+[2024.12.01-11.12.09:369][331]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/Styles/Button/Menu_Button_Panel_2
+[2024.12.01-11.12.09:370][331]LogSavePackage: Moving '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Saved/Menu_Button_Panel_29C830B444BD0093F780B20B86FBC4CF2.tmp' to '../../../../../OriGaming_Studio/Projets/JamAvent_2024/JamAvent/Sapin/Content/BluePrints/UI/Styles/Button/Menu_Button_Panel_2.uasset'
+[2024.12.01-11.12.09:392][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 13.0 sec)
+[2024.12.01-11.12.09:397][331]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.01-11.12.09:397][331]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/UI/Styles/Button/MainMenu/Button_MainMenu.Button_MainMenu
+[2024.12.01-11.12.09:397][331]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BluePrints/UI/Styles/Button/Menu_Button_Panel.Menu_Button_Panel
+[2024.12.01-11.12.09:397][331]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BluePrints/UI/Styles/Button/Menu_Button_Panel_2.Menu_Button_Panel_2
+[2024.12.01-11.12.20:357][921]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-11.12.20:357][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-11.12.20:365][921]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-11.12.20:365][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-11.12.22:437][ 31]LogViewport: Scene viewport resized to 2787x1884, mode Windowed.
+[2024.12.01-11.12.22:478][ 31]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 56952
+[2024.12.01-11.12.22:478][ 31]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2024.12.01-11.12.29:252][120]LogSlate: Window 'WG_MainMenu' being destroyed
+[2024.12.01-11.12.29:276][120]LogSlate: Window 'WG_MainMenu' being destroyed
+[2024.12.01-11.12.29:303][120]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-11.12.29:303][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-11.12.29:308][120]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.01-11.12.29:308][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.01-11.12.34:646][152]LogViewport: Scene viewport resized to 2369x1594, mode Windowed.
