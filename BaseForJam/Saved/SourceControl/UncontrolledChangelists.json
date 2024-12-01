@@ -9,8 +9,22 @@
 				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/GI_Base.uasset",
 				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/GM_Base.uasset",
 				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/BluePrints/Saves/BP_CheckPoint.uasset",
-				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/GI_Stuck.uasset",
-				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/BluePrints/UI/WG_MainMenu.uasset"
+				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/BluePrints/UI/WG_MainMenu.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/Game_Lvl.umap",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/GI_Base.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/BP_Chara.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Player/inputs/BP_InputMappingContext.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Player/inputs/BP_Jump.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/BP_PlayerController.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/GM_Base.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Player/inputs/BP_InputMappingContext_2.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/BP_WorkaroundSplit.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Player/inputs/BP_Jump_2.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Player/inputs/BP_Move_2.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/BP_PlayerController_2.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Player/inputs/BP_Move.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/BaseForJam/Content/BluePrints/Game_Lvl.umap",
+				"C:/Users/Eleanore/Documents/Unreal Projects/BaseForJam/Content/GI_Stuck.uasset"
 			]
 		}
 	]
