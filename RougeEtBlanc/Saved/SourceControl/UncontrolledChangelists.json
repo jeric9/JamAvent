@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/Walls/BP_Wall.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/Game_Lvl.umap",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/BP_Chara.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/FOND.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/UI/ToBeTrees_Title_Sprite.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BP_FOND.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/BP_FOND.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/BP_CameraManager.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/Assets/Mat_Blanc.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/Assets/Mat_Rouge.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/Player/inputs/BP_Switch.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/Player/inputs/BP_InputMappingContext.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/Player/inputs/BP_Jump.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/Walls/BP_ColorWall.uasset",
+				"C:/Users/Eleanore/Documents/GitHub/JamAvent/RougeEtBlanc/Content/BluePrints/Player/inputs/BP_Reset.uasset"
+			]
+		}
+	]
+}
