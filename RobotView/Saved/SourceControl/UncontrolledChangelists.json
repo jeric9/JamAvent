@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Girard/Documents/GitHub/JamAvent/RobotView/Content/audio/BP_audio_actor.uasset",
+				"D:/Girard/Documents/GitHub/JamAvent/RobotView/Content/audio/Main_Theme.uasset",
+				"D:/Girard/Documents/GitHub/JamAvent/RobotView/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Girard/Documents/GitHub/JamAvent/RobotView/Content/audio/musique.uasset",
+				"D:/Girard/Documents/GitHub/JamAvent/RobotView/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZG/T88M9E8LMCAQKMLI64UC42.uasset",
+				"D:/Girard/Documents/GitHub/JamAvent/RobotView/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Eleanore/Documents/Unreal Projects/RobotView/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Eleanore/Documents/Unreal Projects/RobotView/Content/BP_CameraManager.uasset",
 				"C:/Users/Eleanore/Documents/Unreal Projects/RobotView/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
