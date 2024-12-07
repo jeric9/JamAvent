@@ -1,4 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":true,"name":"The Maison","order":1,"parentId":0,"scrollX":1444.6666666666667,"scrollY":804.6666666666666},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":852.6666666666666,"scrollY":523.3333333333334},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":0,"scrollX":816,"scrollY":727.3333333333334},
+{"id":4,"expanded":false,"name":"FinPolice","order":4,"parentId":0,"scrollX":540.6666666666666,"scrollY":319.3333333333333},
+{"id":5,"expanded":true,"name":"Intro","order":5,"parentId":0,"scrollX":540.6666666666666,"scrollY":319.3333333333333},
+{"id":6,"expanded":false,"name":"Victory","order":6,"parentId":0,"scrollX":832,"scrollY":640}
 ]
